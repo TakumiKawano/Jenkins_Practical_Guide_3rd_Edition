@@ -1,7 +1,5 @@
 package jp.gihyo.jenkinsbook.action;
 
-import java.util.Calender;
-
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
